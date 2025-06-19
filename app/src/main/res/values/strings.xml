@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Playlist</string>
+    <string name="title_activity_detailed_view_screen">DetailedViewScreen</string>
+</resources>
